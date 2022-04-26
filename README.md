@@ -28,13 +28,13 @@ This will output the help menu, which contains the following flags:
 
 ```-t, --timeout - Sets a pause between attempts in seconds (ex. -t 60)```
 
-```-d, --domain - Checks if the listed domain is valid or not (ex. -d mayorsec.com)```
+```-d, --domain - Checks if the listed domain is valid or not (ex. -d kra.go.ke)```
 
 ```--verbose - Outputs test verbosely```
 
 Examples of full commands include:
 
-```python3 uSerFind3r.py -e example@test.com```
+```python3 uSerFind3r.py -e callcentre@kra.go.ke```
 
 ```python3 uSerFind3r.py -r emails.txt -w validemails.txt```
 

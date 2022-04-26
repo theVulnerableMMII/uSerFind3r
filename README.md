@@ -18,7 +18,7 @@ This will output the help menu, which contains the following flags:
 
 ```-h, --help - Lists the help options```
 
-```-e, --email - Required for running Oh365UserFinder against a single email account```
+```-e, --email - Required for running uSerFind3r against a single email account```
 
 ```-r, --read - Reads from a text file containing emails (ex. -r emails.txt)```
 
